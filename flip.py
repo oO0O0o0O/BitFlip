@@ -1,5 +1,5 @@
 '''
-Generates a copy on the input file with the bits flipped.
+Generates a copy of the input file with the bits flipped.
 '''
 
 from sys import argv
